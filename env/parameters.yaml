@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jx-v2/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jean-michel.oliva@fr.ibm.com
+  token: local:jx-v2/pipelineUser:token
+  username: jmoliva
+prow:
+  hmacToken: local:jx-v2/prow:hmacToken
