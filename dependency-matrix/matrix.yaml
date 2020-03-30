@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jmoliva
+  repo: jx-v2-testnode
+  url: https://github.com/jmoliva/jx-v2-testnode.git
+  version: ""
+  versionURL: ""
